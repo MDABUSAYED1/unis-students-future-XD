@@ -22,7 +22,7 @@ int main()
       oddNums = oddNums + numofDigits;
   }
 
-  printf("\n  Sum of Odd digits  %d.", oddNums);
+  printf("\n  Sum of Odd digits  %d", oddNums);
 
   return 0;
 }
