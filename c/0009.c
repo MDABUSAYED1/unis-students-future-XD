@@ -7,6 +7,8 @@ int main()
   int arr[10];
 
   int i = 0, isPalindrome = 0;
+
+  // taking input for the array
   while (i < 10)
   {
     printf("Enter %d element of array : ", i);
@@ -14,6 +16,7 @@ int main()
     i++;
   }
 
+  // checking if the elements matches
   for (int j = 0; j < i / 2; j++)
   {
     if (arr[j] != arr[i - j - 1])
@@ -23,6 +26,7 @@ int main()
     }
   }
 
+  // printing the result according to condition
   if (isPalindrome == 0)
   {
     printf("The array is a palindrome\n");

@@ -9,3 +9,4 @@
 #### 0007.c - solution to finding the number of days in from jan 1
 #### 0008.c - solution to finding the sum of array inputs for ten values given by the user
 #### 0009.c - solution to checking if the number array is palindrome
+#### 0010.c - solution to finding the multiplied value of two largest number in an array
