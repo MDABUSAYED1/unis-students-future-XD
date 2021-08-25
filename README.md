@@ -6,3 +6,4 @@
 #### 0004.c - solution to how to take input in an array
 #### 0005.c - solution to finding the sum of odd digits
 #### 0006.c - solution to finding if the number is even or odd
+#### 0007.c - solution to finding the number of days in from jan 1
