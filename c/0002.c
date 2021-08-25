@@ -1,5 +1,6 @@
 // printing the even and odd number in order
 
+// method - 1
 #include <stdio.h>
 
 int main()
@@ -33,4 +34,37 @@ int main()
 
     counter += 1;
   }
+}
+
+// method - 2
+#include <stdio.h>
+int main()
+{
+  int num;
+
+  printf("Enter an integer\n");
+  scanf("%d", &num);
+
+  for (int i = 1; i <= num; i++)
+  {
+    if (i % 2 != 0)
+    {
+
+      for (int j = 1; j <= i; j++)
+        if (j % 2 != 0)
+          printf("%d ", j);
+
+      printf("\n");
+    }
+    else
+    {
+
+      for (int j = 2; j <= i; j++)
+        if (j % 2 == 0)
+          printf("%d ", j);
+
+      printf("\n");
+    }
+  }
+  return 0;
 }
