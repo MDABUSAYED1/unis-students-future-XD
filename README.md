@@ -12,4 +12,5 @@
 #### 0010.c - solution to finding the multiplied value of two largest elments in an array
 #### 0011.c - solution to finding the sum of two matrices
 #### 0012.c - solution to finding the sum of elements in specific column for a matrice
-#### 0013.c - solution to making a transpose matrix 
+#### 0013.c - solution to making a transpose matrice
+#### 0014.c - solution to checking if a certain number exists in a matrice
