@@ -15,3 +15,4 @@
 #### 0013.c - solution to making a transpose matrice
 #### 0014.c - solution to checking if a certain number exists in a matrice
 #### 0015.c - solution to making a string number to reversed ordered decimal value
+#### 0016.c - solution to finding out the total run of a player and max scorer in a 5 match t-20 series
