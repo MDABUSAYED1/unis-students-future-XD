@@ -14,3 +14,4 @@
 #### 0012.c - solution to finding the sum of elements in specific column for a matrice
 #### 0013.c - solution to making a transpose matrice
 #### 0014.c - solution to checking if a certain number exists in a matrice
+#### 0015.c - solution to making a string number to reversed ordered decimal value
